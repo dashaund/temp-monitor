@@ -1,0 +1,6 @@
+{
+  "nombre": "{{ nombre }}",
+  "email": "{{ email }}",
+  "min": {{ tmpmin }},
+  "max": {{ tmpmax }}
+}

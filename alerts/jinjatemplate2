@@ -1,0 +1,4 @@
+Hola {{ name }}, esta es una alerta automática.
+Se registró una temperatura en el invernadero de {{ tempread }} la cual está fuera del límite de {{ tempset }}.
+
+Greenhouse Alerts

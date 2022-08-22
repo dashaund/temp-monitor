@@ -1,0 +1,4 @@
+Hola werwer, esta es una alerta automática.
+Se registró una temperatura en el invernadero de 22 la cual está fuera del límite de 25.
+
+Greenhouse Alerts
